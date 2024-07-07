@@ -22,7 +22,7 @@ Thus, you need to set up a [WebAPI BPS](https://webapi.bps.go.id/developer/) acc
 
 Get the Food Security and Vulnerability Atlas (FSVA) data at the city and regency level in 2021 from the Food Security Agency (BKP) (see [Peta Ketahanan & Kerentanan Pangan (FSVA)](https://fsva.badanpangan.go.id/?09f27a87666909bc41734d24f89fab74)). Download the CSV file and save it in the `data` folder.
 
-Download the [2021 City/Regency Poverty Data and Information]((https://www.bps.go.id/id/publication/2021/11/30/9e3602ea496ecc2f4751836f/data-dan-informasi-kemiskinan-kabupaten-kota-tahun-2021.html)) report from BPS and save it in the `docs` folder. This report contains data on the share of poor households that received food assistance by province in 2021. You can manually input the data and store it in a spreadsheet in the `results` folder.
+Download the [2021 City/Regency Poverty Data and Information](https://www.bps.go.id/id/publication/2021/11/30/9e3602ea496ecc2f4751836f/data-dan-informasi-kemiskinan-kabupaten-kota-tahun-2021.html) report from BPS and save it in the `docs` folder. This report contains data on the share of poor households that received food assistance by province in 2021. You can manually input the data and store it in a spreadsheet in the `results` folder.
 
 ## Example
 
